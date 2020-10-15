@@ -3,7 +3,7 @@
 <InstallVariables>
 
 <!--***** START DRIVER PACKAGE NAME VAR HERE EXAMPLE: 750i_650i_306i_4750i_4700i.pkg - ONLY CHANGE IF NEEDED   ******-->  
-<InstallVar name="driverPackageName">"750i_650i_306i_4750i_4700i.pkg"</InstallVar>
+<InstallVar name="driverPackageName">750i_650i_306i_4750i_4700i.pkg</InstallVar>
 <!--***** START DRIVER PACKAGE NAME VAR HERE EXAMPLE: 750i_650i_306i_4750i_4700i.pkg   ******-->
   
   
